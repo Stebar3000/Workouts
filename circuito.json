@@ -1,39 +1,39 @@
 {
   "circuito": {
     "giri_totali": 3,
-    "pausa_tra_esercizi_secondi": 80,
+    "pausa_tra_circuiti_secondi": 60,
     "esercizi": [
       {
         "nome": "Wall sit",
         "tipo": "a_tempo",
-        "tempo_posizionamento_secondi": 5,
+        "tempo_posizionamento_secondi": 10,
         "durata_complessiva_secondi": 45
       },
       {
         "nome": "Apertura a elastico",
         "tipo": "a_ripetizione",
-        "tempo_posizionamento_secondi": 5,
+        "tempo_posizionamento_secondi": 10,
         "numero_ripetizioni": 6,
         "tempo_singola_ripetizione_secondi": 3
       },
       {
         "nome": "Squat sulla sedia",
         "tipo": "a_ripetizione",
-        "tempo_posizionamento_secondi": 5,
+        "tempo_posizionamento_secondi": 10,
         "numero_ripetizioni": 15,
         "tempo_singola_ripetizione_secondi": 4
       },
       {
         "nome": "Croci a elastico",
         "tipo": "a_ripetizione",
-        "tempo_posizionamento_secondi": 5,
+        "tempo_posizionamento_secondi": 10,
         "numero_ripetizioni": 8,
         "tempo_singola_ripetizione_secondi": 3
       },
       {
         "nome": "Hammer curl a elastico",
         "tipo": "a_ripetizione",
-        "tempo_posizionamento_secondi": 5,
+        "tempo_posizionamento_secondi": 10,
         "numero_ripetizioni": 8,
         "tempo_singola_ripetizione_secondi": 3
       },
@@ -45,5 +45,6 @@
       } ]
 	}
 }
+
 
 
