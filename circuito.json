@@ -1,13 +1,13 @@
 {
   "circuito": {
     "giri_totali": 3,
-    "pausa_tra_esercizi_secondi": 20,
+    "pausa_tra_esercizi_secondi": 80,
     "esercizi": [
       {
         "nome": "Wall sit",
         "tipo": "a_tempo",
         "tempo_posizionamento_secondi": 5,
-        "durata_complessiva_secondi": 25
+        "durata_complessiva_secondi": 45
       },
       {
         "nome": "Apertura a elastico",
@@ -40,9 +40,10 @@
       {
         "nome": "Plank a braccia tese",
         "tipo": "a_tempo",
-        "tempo_posizionamento_secondi": 15,
-        "durata_complessiva_secondi": 25
+        "tempo_posizionamento_secondi": 20,
+        "durata_complessiva_secondi": 50
       } ]
 	}
 }
+
 
